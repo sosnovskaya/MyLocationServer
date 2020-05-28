@@ -1,0 +1,1 @@
+This repository contains source code of server for "My location" mobile application that can determine the user's geolocation. Server provides wide range of http-methods for  interacting with the data base.
